@@ -1,0 +1,158 @@
+/* CSS Document */
+
+*{
+margin:0px;
+padding:0px;
+}
+	.all{
+	background:#f2f2f2;
+	}
+	#txt{
+	background-color:#F9F9F9;
+	 text-align: center;
+
+    font-size: 20px;
+    line-height: 25px;
+	color:#62B0FF;
+	
+	}
+	.top{
+	width:1238px;;
+	height:60px;
+	margin:0px auto;
+	padding: 10px 0; 
+	background:#ffffff;
+	}
+	.title{
+	width:1238px;;
+	height:60px;
+	background:#9d9d9d;
+	margin: 0px auto;
+	}
+	.title_context{
+	width:1038px;
+	height:60px;
+	margin: auto 0px;  
+	}
+	.title_context li{
+	float:left;
+	list-style-type:none;
+	width:120px;
+	text-align:center;
+	line-height:50px;
+	font-weight:bold;
+	}
+    .title_context a:link,.title_context a:visited{
+	text-decoration:none;
+	color:#FFFFFF;
+	
+	}
+	.title_context a:hover,.title_context a:active{
+	text-decoration:none;
+	color:#FFFF00;
+	font-size:16px;
+	font-family:"Î¢ÈíÑÅºÚ";
+	}
+	.center{
+	width:1238px;
+	height:760px;
+	margin:0px auto;
+	background:##f2f2f2;
+	}
+	.center_left{
+	width:970px;
+	height:20px;
+	margin: auto 0px;
+	float:left;
+	}
+	.center_left_top{
+	width:970px;
+	height:20px;
+	margin: auto 0px;
+	background:#ffffc1;
+	}
+	.test_top{
+	width:970px;
+	height:300px;
+	background:#ffffff;
+	margin: 15px 0 0 0px;
+	}
+	.test_down{
+	width:970px;
+	height:300px;
+	background:#ffffff;
+	margin: 15px 0 0 0px;
+
+	}
+	.button{
+	
+	width:265px;
+	height:50px;
+	
+	margin: 15px auto;
+	}
+	
+	.center_right{
+	width:250px;
+	height:500px;
+	margin-left:15px;
+	background:#FFFFFF;
+	float:right;
+	}
+	.center_right_up{
+
+	}
+
+	.test_title{
+		width: 100%;
+		height:30px;
+        border-top: 1px solid #FFF;
+       background-color: #e6e6e6;
+       padding: 15px 0px;
+		
+		
+		}
+		
+	.number {
+    background-color:#e6e6e6;
+    width: 55px;
+    display: block;
+    color:#1A8CFF;
+    text-align: center;
+    font-family: "Microsoft Yahei";
+    font-size: 25px;
+    line-height: 25px;
+    float: left;
+    position: relative;
+    margin-top: -3px;
+}
+.orgTxt {
+	background-color: #e6e6e6;
+    color:#62B0FF;
+}
+.f-title {
+	background-color: #e6e6e6;
+    width:947px;
+    
+    padding-right: 20px;
+}
+	.center_right_down{
+
+	}
+	.ttt{
+	
+	background-color:#F9F9F9;
+	
+    font-size: 20px;
+    line-height: 25px;
+	color:#1A8CFF;
+	
+}
+	.clock{
+		width:60px;
+	     height:30px;
+		
+		float:right;
+		margin-top:12px;
+		margin-right:6px;
+		}

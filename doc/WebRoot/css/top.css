@@ -1,0 +1,30 @@
+*{margin:0px;padding:0px;}
+	.top{
+    
+	height:60px;
+	width:auto;
+	}
+.top_in{
+
+ 
+height:50px;
+
+}
+.top_right{
+
+margin:0 200px 0 30px;
+float:right;
+
+}
+.top_line{
+
+height:10px;
+background:#EEF2FB;
+}
+.top_right_right{
+
+float:right;
+
+margin-top:13px;
+
+}
